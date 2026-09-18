@@ -1,4 +1,4 @@
-# projeto_BGS_baguetona_game_show
+# Projeto B.G.S. Baguetona Game Show
 ## Projeto de gestão do campeonato 
 
 ---
